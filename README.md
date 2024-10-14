@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yitao Wang.
+## Hi there 👋, I'm Yitao Wang.
 
 - 🏫 I’m currently studying in Southeast University.
 - 💬 I'm currently exploring [llama.cpp](https://github.com/ggerganov/llama.cpp), we can have a communication.
@@ -8,7 +8,7 @@
 
 You're my ![Visitor Count](https://profile-counter.glitch.me/walker-ai/count.svg) visitors ! 😄
 
-### Stats
+## Stats
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=walker-ai&show_icons=true&theme=transparent)
