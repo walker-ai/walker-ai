@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Yitao Wang.
 
+[Blog](https://yitaonote.com) | [Resume](https://yitaonote.com)
+
 - 🏫 I’m currently studying in Southeast University
 - 💬 I'm currently exploring [llama.cpp](https://github.com/ggerganov/llama.cpp) and [sglang](https://github.com/sgl-project/sglang), we can have a communication
 - 📫 How to reach me: wangyitao42@gmail.com
