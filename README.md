@@ -5,7 +5,7 @@
 - 🏫 I’m currently studying in Southeast University
 - 💬 I'm currently exploring [llama.cpp](https://github.com/ggerganov/llama.cpp) and [sglang](https://github.com/sgl-project/sglang), we can have a communication
 - 📫 How to reach me: wangyitao42@gmail.com
-- 📝 Read more about my algorithm notes: [AcWing](https://www.acwing.com/user/myspace/index/94631/), [LeetCode](https://leetcode.cn/u/walker-w/)
+- 📝 Read more about my algorithm notes: [AcWing](https://www.acwing.com/user/myspace/index/94631/)
 
 
 You're my ![Visitor Count](https://profile-counter.glitch.me/walker-ai/count.svg) visitors ! 😄
