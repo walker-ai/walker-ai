@@ -3,7 +3,7 @@
 [Blog](https://yitaonote.com) | [Resume](https://yitaonote.com)
 
 - 🏫 I’m currently studying in Southeast University
-- 💬 I'm currently exploring [llama.cpp](https://github.com/ggerganov/llama.cpp) and [sglang](https://github.com/sgl-project/sglang), we can have a communication
+- 💬 I'm currently exploring [sglang](https://github.com/sgl-project/sglang) and [llama.cpp](https://github.com/ggerganov/llama.cpp)
 - 📫 How to reach me: wangyitao42@gmail.com
 - 📝 Read more about my algorithm notes: [AcWing](https://www.acwing.com/user/myspace/index/94631/)
 
