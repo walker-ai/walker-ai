@@ -16,7 +16,7 @@ You're my ![Visitor Count](https://profile-counter.glitch.me/walker-ai/count.svg
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=walker-ai&show_icons=true&theme=transparent" alt="GitHub stats" width="49%" height="165px" style="margin-right: 1%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walker-ai&layout=compact&exclude_repo=sglang,MIT6.S081-Fall2020" alt="Top Langs" width="49%" height="165px" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walker-ai&layout=compact&exclude_repo=sglang,MIT6.S081-Fall2020" alt="Top Langs" width="49%" height="165px" /> -->
 </div>
 
 
