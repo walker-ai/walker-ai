@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yitao Wang.
 
-[Blog](https://yitaonote.com) | [Resume](https://walker-ai/walker-ai/resume.html)
+[Blog](https://yitaonote.com) | [Resume](https://drive.google.com/file/d/1PoRDjTQcSzbhj3OWoafNbpxa1NeD2f5p/view)
 
 - 🏫 I’m currently studying in Southeast University
 - 💬 I'm currently exploring [sglang](https://github.com/sgl-project/sglang) and [llama.cpp](https://github.com/ggerganov/llama.cpp)
