@@ -5,7 +5,7 @@
 - 🏫 I’m currently studying in Southeast University
 - 💬 I'm currently exploring [sglang](https://github.com/sgl-project/sglang) and [llama.cpp](https://github.com/ggerganov/llama.cpp)
 - 💻 I'm currently working with the AI Infra team in **Ant Group** as a summer intern
-- 📫 How to reach me: wangyitao42@gmail.com
+- 📫 How to reach me: wangyitao42@gmail.com | [Google Scholar](https://scholar.google.com/citations?user=lrspwrsAAAAJ&hl=zh-TW&oi=sra)
 - 📝 Read more about my algorithm notes: [AcWing](https://www.acwing.com/user/myspace/index/94631/)
 
 ## Stats
