@@ -6,7 +6,7 @@
 - 💬 I'm currently exploring [SGLang](https://github.com/sgl-project/sglang) and [Llama.cpp](https://github.com/ggerganov/llama.cpp)
 - 💻 I'm currently working with the AI Infra team in **Ant Group** as a summer intern
 - 📫 How to reach me: wangyitao42@gmail.com | [Google Scholar](https://scholar.google.com/citations?user=lrspwrsAAAAJ&hl=zh-TW&oi=sra)
-- 📝 Read more about my study notes: [yitaonote.com](https://yitaonote.com/)
+- 📝 Read more about my study notes: [yitaonote.com](https://wytnote.com/)
 
 ## Stats
 
