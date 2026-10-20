@@ -5,7 +5,6 @@
 - 🏫 Graduated from Southeast University.
 - 💻 I'm currently working with the Data-Arch team in **ByteDance**.
 - 📫 How to reach me: [Email](wangyitao42@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=lrspwrsAAAAJ&hl=zh-TW&oi=sra) | [LinkedIn](https://www.linkedin.com/in/yitao-wang-6b9328311/) | WeChat: `Tao2398833647`
-- 📝 Read more about my study notes: [wytnote.com](https://wytnote.com/)
 
 ## Stats
 
