@@ -29,7 +29,7 @@
       </td>
       <td valign="top" width="33%">
         <strong>GPU Kernels</strong><br/>
-        Designing and optimizing CUDA/Triton kernels for AI training and inference.
+        Designing and optimizing CUDA/Triton kernels for LLM training and inference.
       </td>
     </tr>
   </tbody>
