@@ -10,9 +10,30 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&amp;logo=nvidia&amp;logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Triton-EE4C2C?style=flat" alt="Triton" />
 </p>
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="33%">
+        <strong>Training &amp; Inference</strong><br/>
+        Efficient model training and serving, with a focus on scalable execution.
+      </td>
+      <td valign="top" width="34%">
+        <strong>RL Systems</strong><br/>
+        Multimodal post-training and rollout integration; exploring diffusion-model RL.
+      </td>
+      <td valign="top" width="33%">
+        <strong>GPU Kernels</strong><br/>
+        Designing and optimizing CUDA/Triton kernels for AI training and inference.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <a href="mailto:wangyitao42@gmail.com">Email</a> &middot;
