@@ -17,7 +17,7 @@
 <p align="center">
   <a href="mailto:wangyitao42@gmail.com">Email</a> &middot;
   <a href="https://scholar.google.com/citations?user=lrspwrsAAAAJ&amp;hl=en">Google Scholar</a> &middot;
-  <a href="https://scholar.google.com/citations?user=lrspwrsAAAAJ&amp;hl=en">Google Scholar</a> &middot;
+  <a href="https://www.linkedin.com/in/yitao-wang-6b9328311/">LinkedIn</a> &middot;
   <a href="https://x.com/walker20010522">X</a> &middot;
   WeChat: <code>Tao2398833647</code>
 </p>
